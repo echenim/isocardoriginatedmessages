@@ -1,4 +1,4 @@
-# goisomessage
+# ISO CARD ORIGNATED MESSAGE
 Services of the financial industry include the exchange of electronic messages relating to financial transactions. 
 Agreements on application specifications are generally at a private level. This International Standard is designed as an interface specification enabling messages to be exchanged between systems adopting a variety of application specifications. 
 The application specification may remain at the private level. Designers of such applications have complete design freedom within the overall constraint that messages shall be convertible to this interface format in order that international interchange may take place. 
